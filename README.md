@@ -1,4 +1,4 @@
-# Covid_19_Analysis
+# Covid-19 Analysis of the year 2020 & 2021 (India) | Python (Jupyter Notebook)
 
 NOTE : MUST HAVE THE "POWER BI DESKTOP" TO VIEW THE DASHBOARD.
 
